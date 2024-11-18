@@ -1,10 +1,10 @@
 {
-"Title": "❗️   اطلاعیه   ❗️",
-"Description": "بزودی فیلترینگ شدیدتری اعمال میشه ، برای جلوگیری از قطع شدن اینترنت خوتون لطفا فورا عضو کانال تلگرامی ما شوید 🌹",
-"Link": "tg://join?invite=TqGubwYkAJdiMmY8",
-"ColorWave": "#ffff00",
-"Color": "#00B0FF",
-"ColorWaveTwo": "#ffff80",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Vpn_Shield",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "9295527835",
-"ShowTime": "3",
-"Button": " ⏩  عضویت اجباری  ⏪ ",
-"ButtonCancell": "  ",
+"Cancellable": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
